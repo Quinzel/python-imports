@@ -1,5 +1,5 @@
-from .logger.logger import LOGGER
-from .logger import tags
+from logger.logger import LOGGER
+from logger import tags
 
 print("|||module NCF/neumf.py")
 
